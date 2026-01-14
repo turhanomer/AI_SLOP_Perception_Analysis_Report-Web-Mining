@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Environment variables
+.env
+.env.local
+config.ini
+config.py
+
+# Data files
+*.csv
+*.json
+!requirements.txt
+!package.json
+
+# Backup files
+*_backup.csv
+*_backup.json
+
+# Analysis results (contains sensitive data)
+analysis_results.json
+sentiment_analizi_backup.csv
+istatistikler_backup.csv
+yorumlar_backup.csv
+
+# Charts (optional - can be regenerated)
+# charts/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
