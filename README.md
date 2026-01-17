@@ -1,6 +1,5 @@
 # YOUTUBE YORUMLARI İLE "AI SLOP" (YAPAY ZEKA ÇÖPLÜĞÜ) ALGI ANALİZİ RAPORU
 
-**Analiz Tarihi:** 2025  
 **Veri Seti:** 26,035 YouTube Yorumu  
 **Analiz Metodolojisi:** Sentiment Analysis, Topic Modeling (LDA), Contextual Word Analysis
 
