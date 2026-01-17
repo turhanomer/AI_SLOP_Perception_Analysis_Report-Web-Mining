@@ -88,7 +88,7 @@ Kriz bağlamında geçen kelimeler, tüketicilerin AI'ın potansiyel tehditlerin
 ![Kriz ve Fırsat Algısı Karşılaştırması](./charts/crisis_vs_opportunity.png)
 *Şekil 2: AI teknolojisinin algılanan risk ve fırsat dengesi - En sık geçen kelimelerin frekans analizi.*
 
-### Hocanın Sorusu: Markamızın veya sektörümüzün adı medyada "kriz/risk" kelimeleriyle mi yoksa "fırsat/büyüme" kelimeleriyle mi yan yana geliyor?
+### Markamızın veya sektörümüzün adı medyada "kriz/risk" kelimeleriyle mi yoksa "fırsat/büyüme" kelimeleriyle mi yan yana geliyor?
 
 **Cevap:** Analiz sonuçları, AI kavramının tüketici zihninde **ikili bir konumlandırma** içinde olduğunu göstermektedir. Fırsat kelimeleri (5,735) kriz kelimelerinden (5,221) hafifçe fazla olsa da, bu fark istatistiksel olarak anlamlı değildir. Tüketiciler AI'ı hem bir "araç" (tool: 839) hem de bir "tehdit" (problem: 839) olarak görmektedir. Bu durum, markaların AI ile ilgili iletişimlerinde dengeli bir yaklaşım sergilemesi gerektiğini göstermektedir.
 
@@ -180,7 +180,7 @@ Tüketiciler, AI'ın yanlış bilgi üretmesi ve güvenilir bilgi kaynaklarını
 ![Negatif Yorumlardan Kelime Bulutu](./charts/negative_wordcloud.png)
 *Şekil 4: Negatif yorumlardan oluşturulan kelime bulutu - Tüketici endişelerinin tematik görselleştirmesi.*
 
-### Hocanın Sorusu: Halkın gündemindeki ana korku ne?
+### Halkın gündemindeki ana korku ne?
 
 **Cevap:** Analiz sonuçları, tüketicilerin en büyük çekincesinin **"Dead Internet" teorisi ve dijital ekosistemin çöküşü"** olduğunu göstermektedir. Tüketiciler, internetin gerçek, insan yapımı içeriklerle dolu bir platform olmaktan çıkıp, AI slop ile dolu bir "ölü" ekosisteme dönüştüğüne inanmaktadır. Bu korku, yaratıcı içeriğin ölümü, yanlış bilgi ve güven kaybı gibi diğer çekincelerle de yakından ilişkilidir.
 
@@ -224,7 +224,7 @@ Tüketiciler, AI slop'u gerçek içerikten ayırt etmekte zorlanmaktadır. Marka
 
 **Uygulama:** "How to Spot AI Slop" eğitim serileri, dijital okuryazarlık programları, okullarla işbirliği içinde eğitim materyalleri geliştirilmesi.
 
-### Hocanın Sorusu: Biz reklamlarımızda bu korkuyu nasıl güvene dönüştürebiliriz?
+### Biz reklamlarımızda bu korkuyu nasıl güvene dönüştürebiliriz?
 
 **Cevap:** Reklam stratejilerinde şu yaklaşımlar benimsenmelidir:
 
@@ -255,10 +255,3 @@ Ancak aynı zamanda, tüketiciler AI'ı bir "araç" olarak görmeye açıktır v
 5. **"Living Internet" Desteği:** Gerçek, kaliteli içerikleri destekleyen hareketler
 
 Markalar, bu stratejileri benimseyerek tüketici çekincelerini güvene dönüştürebilir ve dijital ekosistemde güvenilir bir konum elde edebilirler. Zamanlama kritiktir: Tüketiciler henüz karar verme aşamasındayken, doğru mesajlaşma ve stratejilerle pazar liderliği kazanılabilir.
-
----
-
-**Rapor Hazırlayan:** Web Madenciliği ve Duygu Analizi Projesi  
-**Metodoloji:** VADER Sentiment Analysis, LDA Topic Modeling, Contextual Word Analysis  
-**Veri Seti:** 26,035 YouTube Yorumu  
-**Analiz Tarihi:** 2025
