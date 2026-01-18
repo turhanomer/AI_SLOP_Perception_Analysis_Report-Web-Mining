@@ -26,7 +26,7 @@ Bu içgörüler, tüketicilerin AI'ın internet ekosistemine etkisi konusunda ci
 ![Sentiment Dağılımı Grafiği](./charts/sentiment_distribution.png)
 *Şekil 1: Tüketici duygu durumunun genel dağılımı (26,035 yorum analizi).*
 
-### Hocanın Sorusu: Şu an piyasaya ürün sürmek için doğru bir psikolojik atmosfer var mı?
+### Şu an piyasaya ürün sürmek için doğru bir psikolojik atmosfer var mı?
 
 **Cevap:** Mevcut veriler, **temkinli bir bekleyiş** atmosferi olduğunu göstermektedir. Pozitif sentiment oranı teknik olarak yüksek olsa da, negatif içgörülerin yoğunluğu ve spesifik korkular (dead internet, misinformation, creative theft) göz önüne alındığında, markaların ürün lansmanlarında şeffaflık ve "human-made" vurgusu yapması kritik öneme sahiptir. Tüketiciler, AI'ı bir "araç" olarak kabul etmeye açık, ancak "tehdit" olarak algılamaya da eğilimlidirler.
 
